@@ -67,7 +67,7 @@ Images are resized to 100x100 and include RGB color channels.
 ## 📚 Wiki
 
 For a detailed explanation of how CNNs work, see:  
-📖 [wiki/How_CNN_Works.md](wiki/How_CNN_Works.md)
+📖 [wiki/How_CNN_Works.md](https://github.com/DeenoBajithaCode/CNN/wiki)
 
 ---
 
